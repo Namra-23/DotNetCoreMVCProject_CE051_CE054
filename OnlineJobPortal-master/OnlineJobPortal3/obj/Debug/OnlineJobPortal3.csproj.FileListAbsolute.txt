@@ -1,0 +1,169 @@
+c:\users\urch\documents\visual studio 2015\Projects\OnlineJobPortal3\OnlineJobPortal3\bin\ApplicationInsights.config
+c:\users\urch\documents\visual studio 2015\Projects\OnlineJobPortal3\OnlineJobPortal3\bin\roslyn\csc.exe
+c:\users\urch\documents\visual studio 2015\Projects\OnlineJobPortal3\OnlineJobPortal3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\urch\documents\visual studio 2015\Projects\OnlineJobPortal3\OnlineJobPortal3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\urch\documents\visual studio 2015\Projects\OnlineJobPortal3\OnlineJobPortal3\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\urch\documents\visual studio 2015\Projects\OnlineJobPortal3\OnlineJobPortal3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\urch\documents\visual studio 2015\Projects\OnlineJobPortal3\OnlineJobPortal3\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\urch\documents\visual studio 2015\Projects\OnlineJobPortal3\OnlineJobPortal3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\urch\documents\visual studio 2015\Projects\OnlineJobPortal3\OnlineJobPortal3\bin\roslyn\System.Collections.Immutable.dll
+c:\users\urch\documents\visual studio 2015\Projects\OnlineJobPortal3\OnlineJobPortal3\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\urch\documents\visual studio 2015\Projects\OnlineJobPortal3\OnlineJobPortal3\bin\roslyn\vbc.exe
+c:\users\urch\documents\visual studio 2015\Projects\OnlineJobPortal3\OnlineJobPortal3\bin\roslyn\VBCSCompiler.exe
+c:\users\urch\documents\visual studio 2015\Projects\OnlineJobPortal3\OnlineJobPortal3\bin\roslyn\VBCSCompiler.exe.config
+c:\users\urch\documents\visual studio 2015\Projects\OnlineJobPortal3\OnlineJobPortal3\bin\OnlineJobPortal3.dll.config
+c:\users\urch\documents\visual studio 2015\Projects\OnlineJobPortal3\OnlineJobPortal3\bin\OnlineJobPortal3.dll
+c:\users\urch\documents\visual studio 2015\Projects\OnlineJobPortal3\OnlineJobPortal3\bin\OnlineJobPortal3.pdb
+c:\users\urch\documents\visual studio 2015\Projects\OnlineJobPortal3\OnlineJobPortal3\bin\Antlr3.Runtime.dll
+c:\users\urch\documents\visual studio 2015\Projects\OnlineJobPortal3\OnlineJobPortal3\bin\EntityFramework.dll
+c:\users\urch\documents\visual studio 2015\Projects\OnlineJobPortal3\OnlineJobPortal3\bin\EntityFramework.SqlServer.dll
+c:\users\urch\documents\visual studio 2015\Projects\OnlineJobPortal3\OnlineJobPortal3\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\urch\documents\visual studio 2015\Projects\OnlineJobPortal3\OnlineJobPortal3\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\urch\documents\visual studio 2015\Projects\OnlineJobPortal3\OnlineJobPortal3\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\urch\documents\visual studio 2015\Projects\OnlineJobPortal3\OnlineJobPortal3\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\urch\documents\visual studio 2015\Projects\OnlineJobPortal3\OnlineJobPortal3\bin\Microsoft.AI.Web.dll
+c:\users\urch\documents\visual studio 2015\Projects\OnlineJobPortal3\OnlineJobPortal3\bin\Microsoft.AI.WindowsServer.dll
+c:\users\urch\documents\visual studio 2015\Projects\OnlineJobPortal3\OnlineJobPortal3\bin\Microsoft.ApplicationInsights.dll
+c:\users\urch\documents\visual studio 2015\Projects\OnlineJobPortal3\OnlineJobPortal3\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\urch\documents\visual studio 2015\Projects\OnlineJobPortal3\OnlineJobPortal3\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\urch\documents\visual studio 2015\Projects\OnlineJobPortal3\OnlineJobPortal3\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\urch\documents\visual studio 2015\Projects\OnlineJobPortal3\OnlineJobPortal3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\urch\documents\visual studio 2015\Projects\OnlineJobPortal3\OnlineJobPortal3\bin\Microsoft.Owin.dll
+c:\users\urch\documents\visual studio 2015\Projects\OnlineJobPortal3\OnlineJobPortal3\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\urch\documents\visual studio 2015\Projects\OnlineJobPortal3\OnlineJobPortal3\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\urch\documents\visual studio 2015\Projects\OnlineJobPortal3\OnlineJobPortal3\bin\Microsoft.Owin.Security.dll
+c:\users\urch\documents\visual studio 2015\Projects\OnlineJobPortal3\OnlineJobPortal3\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\urch\documents\visual studio 2015\Projects\OnlineJobPortal3\OnlineJobPortal3\bin\Microsoft.Owin.Security.Google.dll
+c:\users\urch\documents\visual studio 2015\Projects\OnlineJobPortal3\OnlineJobPortal3\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\urch\documents\visual studio 2015\Projects\OnlineJobPortal3\OnlineJobPortal3\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\urch\documents\visual studio 2015\Projects\OnlineJobPortal3\OnlineJobPortal3\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\urch\documents\visual studio 2015\Projects\OnlineJobPortal3\OnlineJobPortal3\bin\Microsoft.Web.Infrastructure.dll
+c:\users\urch\documents\visual studio 2015\Projects\OnlineJobPortal3\OnlineJobPortal3\bin\Newtonsoft.Json.dll
+c:\users\urch\documents\visual studio 2015\Projects\OnlineJobPortal3\OnlineJobPortal3\bin\Owin.dll
+c:\users\urch\documents\visual studio 2015\Projects\OnlineJobPortal3\OnlineJobPortal3\bin\System.Web.Helpers.dll
+c:\users\urch\documents\visual studio 2015\Projects\OnlineJobPortal3\OnlineJobPortal3\bin\System.Web.Mvc.dll
+c:\users\urch\documents\visual studio 2015\Projects\OnlineJobPortal3\OnlineJobPortal3\bin\System.Web.Optimization.dll
+c:\users\urch\documents\visual studio 2015\Projects\OnlineJobPortal3\OnlineJobPortal3\bin\System.Web.Razor.dll
+c:\users\urch\documents\visual studio 2015\Projects\OnlineJobPortal3\OnlineJobPortal3\bin\System.Web.WebPages.Deployment.dll
+c:\users\urch\documents\visual studio 2015\Projects\OnlineJobPortal3\OnlineJobPortal3\bin\System.Web.WebPages.dll
+c:\users\urch\documents\visual studio 2015\Projects\OnlineJobPortal3\OnlineJobPortal3\bin\System.Web.WebPages.Razor.dll
+c:\users\urch\documents\visual studio 2015\Projects\OnlineJobPortal3\OnlineJobPortal3\bin\WebGrease.dll
+c:\users\urch\documents\visual studio 2015\Projects\OnlineJobPortal3\OnlineJobPortal3\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\urch\documents\visual studio 2015\Projects\OnlineJobPortal3\OnlineJobPortal3\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\urch\documents\visual studio 2015\Projects\OnlineJobPortal3\OnlineJobPortal3\bin\Microsoft.AI.Web.xml
+c:\users\urch\documents\visual studio 2015\Projects\OnlineJobPortal3\OnlineJobPortal3\bin\Microsoft.AI.WindowsServer.xml
+c:\users\urch\documents\visual studio 2015\Projects\OnlineJobPortal3\OnlineJobPortal3\bin\Microsoft.ApplicationInsights.xml
+c:\users\urch\documents\visual studio 2015\Projects\OnlineJobPortal3\OnlineJobPortal3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\urch\documents\visual studio 2015\Projects\OnlineJobPortal3\OnlineJobPortal3\bin\System.Web.Helpers.xml
+c:\users\urch\documents\visual studio 2015\Projects\OnlineJobPortal3\OnlineJobPortal3\bin\System.Web.Mvc.xml
+c:\users\urch\documents\visual studio 2015\Projects\OnlineJobPortal3\OnlineJobPortal3\bin\System.Web.Optimization.xml
+c:\users\urch\documents\visual studio 2015\Projects\OnlineJobPortal3\OnlineJobPortal3\bin\System.Web.Razor.xml
+c:\users\urch\documents\visual studio 2015\Projects\OnlineJobPortal3\OnlineJobPortal3\bin\System.Web.WebPages.xml
+c:\users\urch\documents\visual studio 2015\Projects\OnlineJobPortal3\OnlineJobPortal3\bin\System.Web.WebPages.Deployment.xml
+c:\users\urch\documents\visual studio 2015\Projects\OnlineJobPortal3\OnlineJobPortal3\bin\System.Web.WebPages.Razor.xml
+c:\users\urch\documents\visual studio 2015\Projects\OnlineJobPortal3\OnlineJobPortal3\bin\Antlr3.Runtime.pdb
+c:\users\urch\documents\visual studio 2015\Projects\OnlineJobPortal3\OnlineJobPortal3\bin\Newtonsoft.Json.xml
+c:\users\urch\documents\visual studio 2015\Projects\OnlineJobPortal3\OnlineJobPortal3\bin\EntityFramework.xml
+c:\users\urch\documents\visual studio 2015\Projects\OnlineJobPortal3\OnlineJobPortal3\bin\EntityFramework.SqlServer.xml
+c:\users\urch\documents\visual studio 2015\Projects\OnlineJobPortal3\OnlineJobPortal3\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\urch\documents\visual studio 2015\Projects\OnlineJobPortal3\OnlineJobPortal3\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\urch\documents\visual studio 2015\Projects\OnlineJobPortal3\OnlineJobPortal3\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\urch\documents\visual studio 2015\Projects\OnlineJobPortal3\OnlineJobPortal3\bin\Microsoft.Owin.xml
+c:\users\urch\documents\visual studio 2015\Projects\OnlineJobPortal3\OnlineJobPortal3\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\urch\documents\visual studio 2015\Projects\OnlineJobPortal3\OnlineJobPortal3\bin\Microsoft.Owin.Security.xml
+c:\users\urch\documents\visual studio 2015\Projects\OnlineJobPortal3\OnlineJobPortal3\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\urch\documents\visual studio 2015\Projects\OnlineJobPortal3\OnlineJobPortal3\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\urch\documents\visual studio 2015\Projects\OnlineJobPortal3\OnlineJobPortal3\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\urch\documents\visual studio 2015\Projects\OnlineJobPortal3\OnlineJobPortal3\bin\Microsoft.Owin.Security.Google.xml
+c:\users\urch\documents\visual studio 2015\Projects\OnlineJobPortal3\OnlineJobPortal3\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\urch\documents\visual studio 2015\Projects\OnlineJobPortal3\OnlineJobPortal3\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\urch\documents\visual studio 2015\Projects\OnlineJobPortal3\OnlineJobPortal3\obj\Debug\OnlineJobPortal3.csprojResolveAssemblyReference.cache
+c:\users\urch\documents\visual studio 2015\Projects\OnlineJobPortal3\OnlineJobPortal3\obj\Debug\OnlineJobPortal3.dll
+c:\users\urch\documents\visual studio 2015\Projects\OnlineJobPortal3\OnlineJobPortal3\obj\Debug\OnlineJobPortal3.pdb
+C:\Users\ASUS\Downloads\OnlineJobPortal-master\OnlineJobPortal3\bin\ApplicationInsights.config
+C:\Users\ASUS\Downloads\OnlineJobPortal-master\OnlineJobPortal3\bin\roslyn\csc.exe
+C:\Users\ASUS\Downloads\OnlineJobPortal-master\OnlineJobPortal3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ASUS\Downloads\OnlineJobPortal-master\OnlineJobPortal3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ASUS\Downloads\OnlineJobPortal-master\OnlineJobPortal3\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ASUS\Downloads\OnlineJobPortal-master\OnlineJobPortal3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ASUS\Downloads\OnlineJobPortal-master\OnlineJobPortal3\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ASUS\Downloads\OnlineJobPortal-master\OnlineJobPortal3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ASUS\Downloads\OnlineJobPortal-master\OnlineJobPortal3\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ASUS\Downloads\OnlineJobPortal-master\OnlineJobPortal3\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ASUS\Downloads\OnlineJobPortal-master\OnlineJobPortal3\bin\roslyn\vbc.exe
+C:\Users\ASUS\Downloads\OnlineJobPortal-master\OnlineJobPortal3\bin\roslyn\VBCSCompiler.exe
+C:\Users\ASUS\Downloads\OnlineJobPortal-master\OnlineJobPortal3\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ASUS\Downloads\OnlineJobPortal-master\OnlineJobPortal3\bin\OnlineJobPortal3.dll.config
+C:\Users\ASUS\Downloads\OnlineJobPortal-master\OnlineJobPortal3\bin\OnlineJobPortal3.dll
+C:\Users\ASUS\Downloads\OnlineJobPortal-master\OnlineJobPortal3\bin\OnlineJobPortal3.pdb
+C:\Users\ASUS\Downloads\OnlineJobPortal-master\OnlineJobPortal3\bin\Antlr3.Runtime.dll
+C:\Users\ASUS\Downloads\OnlineJobPortal-master\OnlineJobPortal3\bin\EntityFramework.dll
+C:\Users\ASUS\Downloads\OnlineJobPortal-master\OnlineJobPortal3\bin\EntityFramework.SqlServer.dll
+C:\Users\ASUS\Downloads\OnlineJobPortal-master\OnlineJobPortal3\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ASUS\Downloads\OnlineJobPortal-master\OnlineJobPortal3\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ASUS\Downloads\OnlineJobPortal-master\OnlineJobPortal3\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ASUS\Downloads\OnlineJobPortal-master\OnlineJobPortal3\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ASUS\Downloads\OnlineJobPortal-master\OnlineJobPortal3\bin\Microsoft.AI.Web.dll
+C:\Users\ASUS\Downloads\OnlineJobPortal-master\OnlineJobPortal3\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ASUS\Downloads\OnlineJobPortal-master\OnlineJobPortal3\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ASUS\Downloads\OnlineJobPortal-master\OnlineJobPortal3\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ASUS\Downloads\OnlineJobPortal-master\OnlineJobPortal3\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ASUS\Downloads\OnlineJobPortal-master\OnlineJobPortal3\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ASUS\Downloads\OnlineJobPortal-master\OnlineJobPortal3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ASUS\Downloads\OnlineJobPortal-master\OnlineJobPortal3\bin\Microsoft.Owin.dll
+C:\Users\ASUS\Downloads\OnlineJobPortal-master\OnlineJobPortal3\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ASUS\Downloads\OnlineJobPortal-master\OnlineJobPortal3\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ASUS\Downloads\OnlineJobPortal-master\OnlineJobPortal3\bin\Microsoft.Owin.Security.dll
+C:\Users\ASUS\Downloads\OnlineJobPortal-master\OnlineJobPortal3\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ASUS\Downloads\OnlineJobPortal-master\OnlineJobPortal3\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ASUS\Downloads\OnlineJobPortal-master\OnlineJobPortal3\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ASUS\Downloads\OnlineJobPortal-master\OnlineJobPortal3\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ASUS\Downloads\OnlineJobPortal-master\OnlineJobPortal3\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ASUS\Downloads\OnlineJobPortal-master\OnlineJobPortal3\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ASUS\Downloads\OnlineJobPortal-master\OnlineJobPortal3\bin\Newtonsoft.Json.dll
+C:\Users\ASUS\Downloads\OnlineJobPortal-master\OnlineJobPortal3\bin\Owin.dll
+C:\Users\ASUS\Downloads\OnlineJobPortal-master\OnlineJobPortal3\bin\System.Web.Helpers.dll
+C:\Users\ASUS\Downloads\OnlineJobPortal-master\OnlineJobPortal3\bin\System.Web.Mvc.dll
+C:\Users\ASUS\Downloads\OnlineJobPortal-master\OnlineJobPortal3\bin\System.Web.Optimization.dll
+C:\Users\ASUS\Downloads\OnlineJobPortal-master\OnlineJobPortal3\bin\System.Web.Razor.dll
+C:\Users\ASUS\Downloads\OnlineJobPortal-master\OnlineJobPortal3\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ASUS\Downloads\OnlineJobPortal-master\OnlineJobPortal3\bin\System.Web.WebPages.dll
+C:\Users\ASUS\Downloads\OnlineJobPortal-master\OnlineJobPortal3\bin\System.Web.WebPages.Razor.dll
+C:\Users\ASUS\Downloads\OnlineJobPortal-master\OnlineJobPortal3\bin\WebGrease.dll
+C:\Users\ASUS\Downloads\OnlineJobPortal-master\OnlineJobPortal3\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ASUS\Downloads\OnlineJobPortal-master\OnlineJobPortal3\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ASUS\Downloads\OnlineJobPortal-master\OnlineJobPortal3\bin\Microsoft.AI.Web.xml
+C:\Users\ASUS\Downloads\OnlineJobPortal-master\OnlineJobPortal3\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ASUS\Downloads\OnlineJobPortal-master\OnlineJobPortal3\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ASUS\Downloads\OnlineJobPortal-master\OnlineJobPortal3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ASUS\Downloads\OnlineJobPortal-master\OnlineJobPortal3\bin\System.Web.Helpers.xml
+C:\Users\ASUS\Downloads\OnlineJobPortal-master\OnlineJobPortal3\bin\System.Web.Mvc.xml
+C:\Users\ASUS\Downloads\OnlineJobPortal-master\OnlineJobPortal3\bin\System.Web.Optimization.xml
+C:\Users\ASUS\Downloads\OnlineJobPortal-master\OnlineJobPortal3\bin\System.Web.Razor.xml
+C:\Users\ASUS\Downloads\OnlineJobPortal-master\OnlineJobPortal3\bin\System.Web.WebPages.xml
+C:\Users\ASUS\Downloads\OnlineJobPortal-master\OnlineJobPortal3\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ASUS\Downloads\OnlineJobPortal-master\OnlineJobPortal3\bin\System.Web.WebPages.Razor.xml
+C:\Users\ASUS\Downloads\OnlineJobPortal-master\OnlineJobPortal3\bin\Antlr3.Runtime.pdb
+C:\Users\ASUS\Downloads\OnlineJobPortal-master\OnlineJobPortal3\bin\Newtonsoft.Json.xml
+C:\Users\ASUS\Downloads\OnlineJobPortal-master\OnlineJobPortal3\bin\EntityFramework.xml
+C:\Users\ASUS\Downloads\OnlineJobPortal-master\OnlineJobPortal3\bin\EntityFramework.SqlServer.xml
+C:\Users\ASUS\Downloads\OnlineJobPortal-master\OnlineJobPortal3\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ASUS\Downloads\OnlineJobPortal-master\OnlineJobPortal3\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ASUS\Downloads\OnlineJobPortal-master\OnlineJobPortal3\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ASUS\Downloads\OnlineJobPortal-master\OnlineJobPortal3\bin\Microsoft.Owin.xml
+C:\Users\ASUS\Downloads\OnlineJobPortal-master\OnlineJobPortal3\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ASUS\Downloads\OnlineJobPortal-master\OnlineJobPortal3\bin\Microsoft.Owin.Security.xml
+C:\Users\ASUS\Downloads\OnlineJobPortal-master\OnlineJobPortal3\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ASUS\Downloads\OnlineJobPortal-master\OnlineJobPortal3\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ASUS\Downloads\OnlineJobPortal-master\OnlineJobPortal3\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ASUS\Downloads\OnlineJobPortal-master\OnlineJobPortal3\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ASUS\Downloads\OnlineJobPortal-master\OnlineJobPortal3\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ASUS\Downloads\OnlineJobPortal-master\OnlineJobPortal3\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ASUS\Downloads\OnlineJobPortal-master\OnlineJobPortal3\obj\Debug\OnlineJobPortal3.csproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\OnlineJobPortal-master\OnlineJobPortal3\obj\Debug\OnlineJobPortal3.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\OnlineJobPortal-master\OnlineJobPortal3\obj\Debug\OnlineJobPortal3.csproj.CopyComplete
+C:\Users\ASUS\Downloads\OnlineJobPortal-master\OnlineJobPortal3\obj\Debug\OnlineJobPortal3.dll
+C:\Users\ASUS\Downloads\OnlineJobPortal-master\OnlineJobPortal3\obj\Debug\OnlineJobPortal3.pdb
+C:\Users\ASUS\Downloads\OnlineJobPortal-master\OnlineJobPortal3\obj\Debug\OnlineJobPortal3.Migrations.InitialCreate.resources
+C:\Users\ASUS\Downloads\OnlineJobPortal-master\OnlineJobPortal3\obj\Debug\OnlineJobPortal3.csproj.GenerateResource.cache
+C:\Users\ASUS\Downloads\OnlineJobPortal-master\OnlineJobPortal3\obj\Debug\OnlineJobPortal3.Migrations.init.resources
